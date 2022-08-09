@@ -1,7 +1,6 @@
 ## Evaluation dataset for the paper "A Holistic Approach to Undesired Content Detection"
 
-The evaluation dataset `data/samples-1680.jsonl.gz` is the test set used in the following paper, 
-(https://arxiv.org/abs/2208.03274)[https://arxiv.org/abs/2208.03274]:
+The evaluation dataset `data/samples-1680.jsonl.gz` is the test set used in [the following paper](https://arxiv.org/abs/2208.03274):
 
 ```
 @article{openai2022moderation,
